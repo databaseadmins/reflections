@@ -1,1 +1,2 @@
 Here is a file which is part of my testing
+This line i added to my local file and now it needs to be committed.
